@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  min-width: 250px;
+  margin-top: 20px;
+  margin-left: 20px;
+  line-height: 20px;
+}
+
+.container h1 {
+  color: red;
+}
