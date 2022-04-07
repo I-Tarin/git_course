@@ -5,12 +5,15 @@
 }
 
 .container {
-  min-width: 250px;
-  margin-top: 20px;
-  margin-left: 20px;
-  line-height: 20px;
+  max-width: 500px;
+  border: 1px solid teal;
+  margin: 20px;
+  padding: 20px;
+  /* line-height: 20px; */
 }
 
 .container h1 {
   color: red;
 }
+
+.container li {}
